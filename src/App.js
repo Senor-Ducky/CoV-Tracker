@@ -1,12 +1,18 @@
 import React, { Component } from 'react'
 import './App.css';
-import Navbar from './components/navbar'
+import Navbar from './components/navbar/navbar'
+import Home from './components/home/Home'
 
 class App extends Component {
 
   render() {
     return(
-      <Navbar></Navbar>
+      <Navbar>
+        <Home>
+          
+        </Home>
+      </Navbar>
+      
     );
   }
 

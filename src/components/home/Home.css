@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.section-bg{
+    background: #102027;
+    position: relative;
+    top: 70px;
+    color: white;
+    height: 300px;
+
+    
+}
+
+
