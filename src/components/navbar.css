@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#navbar {
+    height: 60px;
+    color: white;
+    background-color: #1F2937;
+}
