@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './App.module.css';
 import Navbar from './components/navbar/navbar'
 import {Cards, Chart, CountryPicker} from './components'
