@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-#card-area{
-    min-height: 80%;
-    background-color: blanchedalmond;
-}
