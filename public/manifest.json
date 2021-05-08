@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CoV-Tracker",
+  "name": "A Covid-19 Tracker Site made using React and Tailwind CSS",
   "icons": [
     {
       "src": "favicon.ico",
