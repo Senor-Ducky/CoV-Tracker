@@ -1,16 +1,16 @@
 import React, { Component } from 'react'
 import './App.css';
 import Navbar from './components/navbar/navbar'
-import Home from './components/home/Home'
+import Body from './components/body'
 
 class App extends Component {
 
   render() {
     return(
       <Navbar>
-        <Home>
+        <Body>
           
-        </Home>
+        </Body>
       </Navbar>
       
     );
